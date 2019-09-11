@@ -11,7 +11,7 @@ class Config:
 
 # the config for development
 class DevelopmentConfig(Config):
-    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:mysql@192.168.133.128:3306/shop?charset=utf8'
+    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:mysql@127.0.0.1:3306/shop?charset=utf8'
     DEBUG = True
 
 # define the config
