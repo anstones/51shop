@@ -50,4 +50,4 @@
 ​	python manage.py  runserver    开始
 
 
-
+![image]()
