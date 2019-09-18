@@ -50,4 +50,6 @@
 ​	python manage.py  runserver    开始
 
 
-![image]()
+![image](https://github.com/MRStonedb/51shop/blob/master/images/index.jpg)
+![image](https://github.com/MRStonedb/51shop/blob/master/images/register.jpg)
+![image](https://github.com/MRStonedb/51shop/blob/master/images/category.jpg)
